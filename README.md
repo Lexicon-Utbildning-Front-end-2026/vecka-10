@@ -67,7 +67,7 @@ Vi byter källa för våra karaktärer från json till API-data
 
 #### 📃 Läsning
 * [**Viktigt** - Data Fetching fundamentals](https://nextjs.org/docs/app/getting-started/fetching-data)
-* [Generating Metadata](https://nextjs.org/docs/app/api-reference/functions/generate-metadata](https://nextjs.org/docs/app/api-reference/functions/generate-metadata)
+* [Generating Metadata](https://nextjs.org/docs/app/api-reference/functions/generate-metadata)
 
 #### 🛠️ Övningar
 * Hämta in data från ett API med hjälp av en funktion som kör fetch
