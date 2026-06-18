@@ -60,7 +60,7 @@ Vi byter källa för våra karaktärer från json till API-data
 ### 🎯 Mål för dagen
 
 * Server Fetch: Hämta data med fetch
-* Om vi hinner: Dynamisk metadata (t.ex. att sidans titel blir produktens namn) och/eller streaming med suspense
+* Om vi hinner: Dynamisk metadata (t.ex. att sidans titel är kopplat till aktuell data) och/eller streaming med suspense
 * Ev lite om felhantering (try/catch och state)
 
 ### 📚 Material
@@ -97,11 +97,6 @@ Vi lär oss styra sidans innehåll via URL:en med hjälp av `searchParams` och b
 
 Vi snyggar till koden och kollar på varandras lösningar från veckans koncept.
 Denna gång tänker vi att ni får lite större frihet i vad ni pratar om då vi inte haft så mycket kodsnack senaste veckorna. Men här kommer några frågor som ni gärna får ta med om ni vill ha lite riktning på samtalet.
-
-Fortsätt på din webshop från förra veckan, men lägg till följande:
-**Gilla-funktion:** Implementera en `LikeButton` på dina produkter som pratar med en API-route.
-**URL-Filter:** När man väljer en kategori eller söker ska URL:en uppdateras (t.ex. `?category=electronics`).
-**Optimering:** Se till att så mycket som möjligt av din produktvisning sker i Server Components.
 
 
 ---
