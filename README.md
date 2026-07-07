@@ -4,7 +4,7 @@ Vi bygger vidare på vår app och hämtar data från API.
 
 ---
 
-## 📅 Måndag: Vi bygger sidor för varje enskilt kort med dynamic
+## 📅 Måndag: Dynamic routes & 404
 
 Vi bygger sidor för varje enskilt kort med dynamic routes och params samt skapar en not found-sida
 
