@@ -96,7 +96,8 @@ Vi lär oss styra sidans innehåll via URL:en med hjälp av `searchParams` och b
 ## 📅 Fredag: Kodsnack
 
 Vi snyggar till koden och kollar på varandras lösningar från veckans koncept.
-Denna gång tänker vi att ni får lite större frihet i vad ni pratar om då vi inte haft så mycket kodsnack senaste veckorna. Men här kommer några frågor som ni gärna får ta med om ni vill ha lite riktning på samtalet.
+
+TBA
 
 
 ---
