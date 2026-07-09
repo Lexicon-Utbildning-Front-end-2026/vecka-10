@@ -34,6 +34,7 @@ Vi bygger sidor för varje enskilt kort med dynamic routes och params samt skapa
 ## 📅 Tisdag: APIer
 
 Vad är ett API och hur kan vi använda det inom front-end?
+<img src="https://pbs.twimg.com/media/HG6sVR5aUAEOx2a.jpg"/>
 
 ### 🎯 Mål för dagen
 
