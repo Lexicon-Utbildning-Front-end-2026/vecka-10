@@ -25,8 +25,9 @@ Vi bygger sidor för varje enskilt kort med dynamic routes och params samt skapa
 * [notFound.tsx](https://nextjs.org/docs/app/api-reference/file-conventions/not-found)
 
 #### 🛠️ Övningar
-* Skapa länkar runt korten till en dynamisk route med info
+* Skapa länkar från korten till en dynamisk route med info
 * Skapa en not-found-sida
+* Lägg till en koll på info-sidan som vidarebefodrar användaren till not-found om sidan inte finns (gör ev en custom not found till bara info-delen)
 
 ---
 
