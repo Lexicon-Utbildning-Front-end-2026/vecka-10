@@ -45,6 +45,8 @@ Vad är ett API och hur kan vi använda det inom front-end?
 * [Futurama API](https://futuramaapi.com/)
 * [Om REST (översiktligt)](https://aws.amazon.com/what-is/restful-api/)
 * [Om GraphQL (översiktligt)](https://graphql.org/learn/)
+* [Swap (REST)](https://swapi.info/)
+* [Swapi (GraphQl)](https://graphql.org/swapi-graphql/)
 * [PokéAPI (REST)](https://pokeapi.co/)
 * [PokéAPI (GraphQL)](https://beta.pokeapi.co/graphql/console)
 * [Hoppscotch](https://hoppscotch.io/)
