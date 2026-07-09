@@ -26,7 +26,7 @@ Vi bygger sidor för varje enskilt kort med dynamic routes och params samt skapa
 
 #### 🛠️ Övningar
 * Skapa länkar runt korten till en dynamisk route med info
-* Skapa en not-fount-sida
+* Skapa en not-found-sida
 
 ---
 
