@@ -74,6 +74,9 @@ Vi byter källa för våra karaktärer från json till API-data
 
 #### 🛠️ Övningar
 * Hämta in data från ett API med hjälp av en funktion som kör fetch
+* Skapa interface/type för de delar som behöver
+* Ändra om i dina komponenter så nya datan visas
+* Extra - Använd dynamisk metadata/streaming/suspense samt grundläggande felhantering med try/catch osv.
 
 ---
 
@@ -93,6 +96,9 @@ Vi lär oss styra sidans innehåll via URL:en med hjälp av `searchParams` och b
 #### 📃 Läsning
 * [`searchParams` prop](https://nextjs.org/docs/app/api-reference/file-conventions/page#searchparams)
 * [URL Search Params (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams)
+
+#### 🛠️ Övningar
+* Skapa en sök, paginering, limit eller dylikt för att testa att använda searchParams
 
 ---
 
