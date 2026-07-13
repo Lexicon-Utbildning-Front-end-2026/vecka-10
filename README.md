@@ -15,6 +15,7 @@ Vi bygger sidor för varje enskilt kort med dynamic routes och params samt skapa
 * Kunna använda params i komponenter
 * Async i komponenter
 * Använda notFound()
+* Dynamisk metadata (t.ex. att sidans titel är kopplat till aktuell data) och/eller streaming med suspense
 
 ### 📚 Material
 
@@ -23,11 +24,14 @@ Vi bygger sidor för varje enskilt kort med dynamic routes och params samt skapa
 * [Params](https://nextjs.org/docs/app/api-reference/file-conventions/page#params-optional)
 * [notFound()](https://nextjs.org/docs/app/api-reference/functions/not-found)
 * [notFound.tsx](https://nextjs.org/docs/app/api-reference/file-conventions/not-found)
+* [Generating Metadata](https://nextjs.org/docs/app/api-reference/functions/generate-metadata)
+  
 
 #### 🛠️ Övningar
 * Skapa länkar från korten till en dynamisk route med info
 * Skapa en not-found-sida
 * Lägg till en koll på info-sidan som vidarebefodrar användaren till not-found om sidan inte finns (gör ev en custom not found till bara info-delen)
+* Extra - Använd dynamisk metadata
 
 ---
 
@@ -64,20 +68,19 @@ Vi byter källa för våra karaktärer från json till API-data
 ### 🎯 Mål för dagen
 
 * Server Fetch: Hämta data med fetch
-* Om vi hinner: Dynamisk metadata (t.ex. att sidans titel är kopplat till aktuell data) och/eller streaming med suspense
 * Ev lite om felhantering (try/catch och state)
 
 ### 📚 Material
 
 #### 📃 Läsning
 * [**Viktigt** - Data Fetching fundamentals](https://nextjs.org/docs/app/getting-started/fetching-data)
-* [Generating Metadata](https://nextjs.org/docs/app/api-reference/functions/generate-metadata)
+
 
 #### 🛠️ Övningar
 * Hämta in data från ett API med hjälp av en funktion som kör fetch
 * Skapa interface/type för de delar som behöver
 * Ändra om i dina komponenter så nya datan visas
-* Extra - Använd dynamisk metadata/streaming/suspense samt grundläggande felhantering med try/catch osv.
+* Extra - streaming/suspense samt grundläggande felhantering med try/catch osv.
 
 ---
 
