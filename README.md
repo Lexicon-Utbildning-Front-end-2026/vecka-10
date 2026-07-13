@@ -111,7 +111,9 @@ Vi lär oss styra sidans innehåll via URL:en med hjälp av `searchParams` och b
 
 Vi snyggar till koden och kollar på varandras lösningar från veckans koncept.
 
-TBA
+Under veckan beslutar ni i gruppen vad ni vill prata om idag. Plocka ut några relevanta delar eller ämnen och prata om dessa. 
+
+I återsamlingen återger ni ett eller två olika saker ni pratade om som kan vara relevant för andra eller som ni tyckte var extra intressant. 
 
 
 ---
