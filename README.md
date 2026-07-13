@@ -69,11 +69,12 @@ Vi byter källa för våra karaktärer från json till API-data
 
 * Server Fetch: Hämta data med fetch
 * Ev lite om felhantering (try/catch och state)
+* Ev streaming/suspense
 
 ### 📚 Material
 
 #### 📃 Läsning
-* [**Viktigt** - Data Fetching fundamentals](https://nextjs.org/docs/app/getting-started/fetching-data)
+* [**Viktigt** - Data Fetching fundamentals](https://nextjs.org/docs/app/getting-started/fetching-data) (Delarna om Streaming och Client Components är extra)
 
 
 #### 🛠️ Övningar
