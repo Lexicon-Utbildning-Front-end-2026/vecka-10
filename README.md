@@ -38,15 +38,15 @@ Vad är ett API och hur kan vi använda det inom front-end?
 
 ### 🎯 Mål för dagen
 
-* Förstå skillnaden och teorin bakom olika web API-typer (REST vs GraphQL)
+* Förstå skillnaden och teorin bakom olika API-typer för att hämta data (REST vs GraphQL)
 * Förstå hur data flödar från en extern källa till vårt gränssnitt
 
 ### 📚 Material
 
 #### 📃 Läsning
-* [Futurama API](https://futuramaapi.com/)
 * [Om REST (översiktligt)](https://aws.amazon.com/what-is/restful-api/)
 * [Om GraphQL (översiktligt)](https://graphql.org/learn/)
+* [Futurama API](https://futuramaapi.com/)
 * [Swap (REST)](https://swapi.info/)
 * [Swapi (GraphQl)](https://graphql.org/swapi-graphql/)
 * [PokéAPI (REST)](https://pokeapi.co/)
