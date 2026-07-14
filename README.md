@@ -48,15 +48,14 @@ Vad är ett API och hur kan vi använda det inom front-end?
 ### 📚 Material
 
 #### 📃 Läsning
-* [Om REST (översiktligt)](https://aws.amazon.com/what-is/restful-api/)
-* [Om GraphQL (översiktligt)](https://graphql.org/learn/)
+* [Om REST (Läs översiktligt så mycket ni vill)](https://aws.amazon.com/what-is/restful-api/)
+* [Om GraphQL (Läs översiktligt så mycket ni vill)](https://graphql.org/learn/)
+##### Exempel på APIer
 * [Futurama API](https://futuramaapi.com/)
-* [Swap (REST)](https://swapi.info/)
+* [Swapi (REST)](https://swapi.info/)
 * [Swapi (GraphQl)](https://graphql.org/swapi-graphql/)
 * [PokéAPI (REST)](https://pokeapi.co/)
 * [PokéAPI (GraphQL)](https://beta.pokeapi.co/graphql/console)
-* [Hoppscotch](https://hoppscotch.io/)
-* [Swagger](https://api.escuelajs.co/docs#/products/ProductsController_getProduct)
 * [Exempel på olika API:er](https://developer.mozilla.org/en-US/docs/Web/API)
 
 ---
